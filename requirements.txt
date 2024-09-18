@@ -8,6 +8,7 @@ gitpython
 hachoir
 heroku3
 lyricsgenius
+pymongo==4.8.0
 motor
 numpy
 pillow
